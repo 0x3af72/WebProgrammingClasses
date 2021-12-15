@@ -1,0 +1,19 @@
+[
+    {
+        "question": "what is 5*5?",
+        "options": ["25", "25", "25", "wrong answer"],
+        "answer": "wrong answer"
+    },
+
+    {
+        "question": "what is the most feared covid variant?",
+        "options": ["delta", "alpha", "beta", "omicron"],
+        "answer": "omicron"
+    },
+
+    {
+        "question": "what is 1+1?",
+        "options": ["3", "5", "1", "0"],
+        "answer": "3"
+    }
+]
