@@ -3,20 +3,23 @@
         "question": "what is 5*5?",
         "options": ["25", "idk", "im relly dumb", "wrong answer"],
         "answer": "wrong answer",
-        "id": "mulQuestion"
+        "id": "mulQuestion",
+        "explanation": "imagine getting this wrong"
     },
 
     {
         "question": "what is the most feared covid variant?",
         "options": ["delta", "alpha", "beta", "omicron"],
         "answer": "omicron",
-        "id": "covidQuestion"
+        "id": "covidQuestion",
+        "explanation": "omicron scary"
     },
 
     {
         "question": "what is 1+1?",
         "options": ["3", "5", "1", "0"],
         "answer": "3",
-        "id": "additionQuestion"
+        "id": "additionQuestion",
+        "explanation": "1+1 = 3"
     }
 ]
